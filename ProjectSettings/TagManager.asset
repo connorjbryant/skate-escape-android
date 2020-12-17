@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectable
+  - Enemy
+  - Powerup
+  - Powerup2
+  - Powerup3
+  - Powerup4
+  - Powerup5
+  - Powerup6
+  - Shop1
+  - Shop2
+  - Grind
+  - Default
+  - Grind2
+  - Grind2Reset
+  - Grind3
+  - Grind3Reset
+  - Tornado
+  - antiTornado
+  - Shop3
+  - Collectable2
+  - wacko
+  - Slope1
+  - Slope2
+  - SlopeReset
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Shop
+  - Eboy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2134987965
+    locked: 0
+  - name: Entity
+    uniqueID: 3176720125
+    locked: 0
+  - name: Foreground
+    uniqueID: 1762821409
+    locked: 0
